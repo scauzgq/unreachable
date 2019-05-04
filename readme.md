@@ -10,7 +10,7 @@
 Preference --> Package Settings --> Package Control --> Settings Users 添加
 ```
 "channels": [
-		"https://github.com/scauzgq/unreachable/blob/master/sublime_text_3/channel_v3.json"
+		"https://raw.githubusercontent.com/scauzgq/unreachable/master/sublime_text_3/channel_v3.json"
 	    ]
 ```
 
