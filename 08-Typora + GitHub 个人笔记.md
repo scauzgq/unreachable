@@ -1,4 +1,4 @@
-## 08-Typora + GitHub 个人笔记
+## Typora + GitHub 个人笔记
 * Typora 
   * markdown 编辑器，可设置遵循"GFM’s spec"，标准化markdown 。
   ![Typora_set_strict_mode](attachment/Typora_set_strict_mode.png)
