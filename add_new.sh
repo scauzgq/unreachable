@@ -1,0 +1,1 @@
+git add . && git commit -m'add pics' && git push github master
